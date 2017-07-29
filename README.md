@@ -1,1 +1,3 @@
-"View Count Tracker" 
+## Ticket Views Tracker
+
+Zendesk API tickets view counts tracker
